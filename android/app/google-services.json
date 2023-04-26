@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "72281923104",
+    "project_id": "signin-88ea8",
+    "storage_bucket": "signin-88ea8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72281923104:android:adaaef96b73564ac6ce645",
+        "android_client_info": {
+          "package_name": "com.example.fluttersingup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72281923104-h4tpmosfngugurh88m182moi2p33pkg8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkYeMreglRf95ZneLDqTottm0XWAFuBQE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72281923104-h4tpmosfngugurh88m182moi2p33pkg8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
